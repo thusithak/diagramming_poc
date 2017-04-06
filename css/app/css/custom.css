@@ -1,0 +1,31 @@
+.joint-stencil.joint-theme-modern{
+    color: #333!important;
+    background: #fff!important;
+}
+.joint-stencil.joint-theme-modern .group>.group-label{
+    background: #fff!important;
+}
+.joint-app.joint-theme-modern .inspector-container{
+    background: #fff!important;
+}
+.joint-inspector.joint-theme-modern,
+.joint-inspector.joint-theme-modern .group>.group-label{
+    color: #333!important;
+    background: #fff!important;
+}
+.joint-inspector.joint-theme-modern .content-editable, .joint-inspector.joint-theme-modern input, .joint-inspector.joint-theme-modern textarea,
+.joint-inspector .joint-select-box.joint-theme-modern .select-box-selection{
+    color: #333!important;
+    border: 2px solid #cccccc!important;
+}
+.joint-inspector.joint-theme-modern input[type=range]{
+    border: none!important;
+}
+.joint-inspector.joint-theme-modern .content-editable, .joint-inspector.joint-theme-modern input[type=text], .joint-inspector.joint-theme-modern input[type=number], .joint-inspector.joint-theme-modern select, .joint-inspector.joint-theme-modern textarea{
+    border: 2px solid #cccccc!important;
+}
+
+.joint-inspector.joint-theme-modern .units, .joint-inspector.joint-theme-modern output{
+    color: #333!important;
+}
+
